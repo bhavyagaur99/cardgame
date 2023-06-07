@@ -1,0 +1,6 @@
+html/
+latex/
+*.dSYM
+CardGameProject*
+main
+.DS_Store
